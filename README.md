@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Peili chang!</h1>
 
 <br></br>
-> <h6>About Me</h6>
+> <h3>About Me</h3>
+> 
 > * From Maioli, Taiwan
 > * A sophomore student 🧑🏻‍💻
 > * Major in Data Science at Soochow University
