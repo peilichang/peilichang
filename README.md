@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Peili chang!</h1>
 
-<h3>🦦 My Info</h3>
+<h3>🦦 My Information</h3>
 
 > * From Maioli, Taiwan
 > * A sophomore student 🧑🏻‍💻
