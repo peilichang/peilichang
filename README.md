@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## About Me
+> * From Maioli, Taiwan
+> * A sophomore student 🧑🏻‍💻
+> * Major in Data Science at Soochow University
+
+
+
 <!--
 **peilichang/peilichang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
