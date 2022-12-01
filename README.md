@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Peili hang!</h1>
+<h1 align="center">Hi, I'm Peili Chang!</h1>
 
 <h3>🦦 My Information</h3>
 
