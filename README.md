@@ -2,8 +2,8 @@
 
 <h3>🦦 My Information</h3>
 
-> * From Maioli, Taiwan
-> * A sophomore student 🧑🏻‍💻
+> * Currently live in Taipei, Taiwan
+> * Graduated from Soochow University 🧑🏻‍💻
 > * Major in Data Science at Soochow University
 
 
