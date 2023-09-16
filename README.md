@@ -6,6 +6,8 @@
 > * Graduated from Soochow University 🧑🏻‍💻
 > * Major in Data Science at Soochow University
 
+🌱 Personal Blog Project：https://peilichang.github.io/personalBlog/index.html
+
 
 
 <!--
